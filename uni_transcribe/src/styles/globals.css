@@ -1,0 +1,14 @@
+html {
+  font-size: 10px;
+}
+
+@media (max-width: 1440px) {
+  html {
+    font-size: 8px;
+  }
+}
+
+input:disabled {
+  background-color: #ececec;
+  /* disabled 됐을 때 input란 안에 색깔 defalut값 */
+}
