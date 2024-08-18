@@ -12,10 +12,10 @@ UNIV lecture Transcribe and Provide service by using STT model (Whisper)
 3. 시연 영상
 
 ## 1. 프로젝트 소개
-이 서비스는 대학 강의 오디오 파일을 텍스트로 변환하여 다양한 서비스를 제공함으로써 학생들의 학습을 돕는 웹 서비스입니다. 
-특히 외국인 학생들에게 특화된 서비스를 제공합니다. 
-OpenAI에서 제공하는 Whisper 모델을 사용하였습니다. 
-이 프로젝트에서 사용된 툴은 React, Next.js, TypeScript, Flask, Node.js, StyledComponents, OpenAI Whisper, ChatGPT API입니다.
+이 서비스는 대학 강의 오디오 파일을 텍스트로 변환하여 다양한 서비스를 제공함으로써 학생들의 학습을 돕는 웹 서비스입니다. </br>
+특히 외국인 학생들에게 특화된 서비스를 제공합니다. </br>
+OpenAI에서 제공하는 Whisper 모델을 사용하였습니다. </br>
+이 프로젝트에서 사용된 툴은 React, Next.js, TypeScript, Flask, Node.js, StyledComponents, OpenAI Whisper, ChatGPT API입니다.</br>
 
 ## 2. 기능 소개
 ![function](https://github.com/user-attachments/assets/60e2d8f7-b110-4fec-815b-6cc0c5b9c8ed)
@@ -48,7 +48,10 @@ OpenAI에서 제공하는 Whisper 모델을 사용하였습니다.
 3. Demonstration Video
 
 ## 1. Project Introduction
-This is a web service that assists students' learning by converting university lecture audio files into text and providing various services. We provide specialized services, especially to foreign students. We used the Whisper model provided by OpenAI. The tools used in this project include React, Next.js, TypeScript, Flask, Node.js, StyledComponents, OpenAI Whisper, and ChatGPT API.
+This is a web service that assists students' learning by converting university lecture audio files into text and providing various services. </br>
+We provide specialized services, especially to foreign students. </br>
+We used the Whisper model provided by OpenAI. </br>
+The tools used in this project include React, Next.js, TypeScript, Flask, Node.js, StyledComponents, OpenAI Whisper, and ChatGPT API.</br>
 
 ## 2. Function Introduction
 
